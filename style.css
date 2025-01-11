@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: blue;
+    color:white;
+}
+header img{
+    border-radius: 10px;
+    margin: 5px;
+}
+
+nav {
+    border: 1px solid blue;
+}
+nav a{
+    margin: 60px;
+}
+
+h1{
+    text-align: center;
+}
+
+.d{
+    margin-left: 20px;
+}
+
+footer p{
+ background-color:rgba(47, 95, 228, 0.973) ;   
+}
+footer {
+ background-color:blue ;   
+} 
+
+.q{
+    background-color: blue;
+}
+.w{
+    background-color: blue;
+}
+.e{
+    background-color: blue;
+}
+.r{
+    background-color: blue;
+}
